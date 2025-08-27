@@ -48,5 +48,3 @@ In Part 1, two proposals were supposed to be written, if they are appproved then
 2. Added a logo in front of the naviagtion bar on each webpage.
 3. Added a message box on the enquires form and added a reset button next to the submit button in case the user makes a mistake.
 4. Added a table to show the names of the founders pf the business as well as their pictures.
-
-**References**
