@@ -37,7 +37,7 @@ Day 17-18: After successful publicity launch the website.
 In Part 1, two proposals were supposed to be written, if they are appproved then we can start to code the website using html in Visual Studio Code. Setting up the basic structure of the website using html:5. With the set-up add three folders which are: images, css and javascript but for now we are using the image folder, the css and javascript folder will be used later in part 2 and 3. This webiste is supposed to feature five webpages that are: the Homepage, the About Us, Contact Us, Enquire page and products page. 
 
 **Sitemap**
-1. The **Homepage**: The main page of the website is supposed to have a hero image, a brief introduction and a navigation menu.
+1. **Homepage**: The main page of the website is supposed to have a hero image, a brief introduction and a navigation menu.
 2. **About Us Page**: It should have the Organisation's history, vision and mission statement and its team members.
 3. **Products Page**: it must have a detailed explanation of the products, how they look like and how much do they cost.
 4. **Enquiry Page**: This page should have an a form for users to enquire about the business.
