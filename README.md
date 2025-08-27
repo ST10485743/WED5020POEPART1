@@ -25,15 +25,15 @@ A small business by the name of Nexus has approached us to make a website that c
    This enables the developer to test whether their website works on any browser with no issues.
 
 **Timelines and Milestones**
-Day 1-4: Start with base coding of the website, run and test the code.  
-Day 5-7: Continue testing and debug the code in case of errors. 
-Day 8-10: Get a user to test the website. Get opinion and try to make changes to the User 
+~Day 1-4: Start with base coding of the website, run and test the code.  
+~Day 5-7: Continue testing and debug the code in case of errors. 
+~Day 8-10: Get a user to test the website. Get opinion and try to make changes to the User 
 Interface 
-Day 11-13: Implement the changes and then allow the user to test it again. 
-Day 14-16: Advertise the release date of the website and write the name of the website. 
-Day 17-18: After successful publicity launch the website.
+~Day 11-13: Implement the changes and then allow the user to test it again. 
+~Day 14-16: Advertise the release date of the website and write the name of the website. 
+~Day 17-18: After successful publicity launch the website.
 
-**PART 1 DETAILS**
+**PART 1 DETAILS:**
 In Part 1, two proposals were supposed to be written, if they are appproved then we can start to code the website using html in Visual Studio Code. Setting up the basic structure of the website using html:5. With the set-up add three folders which are: images, css and javascript but for now we are using the image folder, the css and javascript folder will be used later in part 2 and 3. This webiste is supposed to feature five webpages that are: the Homepage, the About Us, Contact Us, Enquire page and products page. 
 
 **Sitemap**
