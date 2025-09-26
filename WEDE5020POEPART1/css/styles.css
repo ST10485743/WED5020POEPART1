@@ -1,9 +1,10 @@
+/*large screen*/
 @media (max-width: 1024px) {}
-
+/*medium screen*/
 @media (max-width: 768px) {}
-
+/*small screen*/
 @media (max-width: 640px) {}
-
+/*extra-small screen*/
 @media (max-width: 300px) {}
 body {
     font-family: Arial, Helvetica, sans-serif; 
@@ -29,11 +30,11 @@ h1{
     margin-right: auto;
 }
 header {
-    
+    width: 100%;
     color: #fff; 
     padding: 20px; 
     text-align: center;
-    max-width: max-content;
+    justify-content: space-evenly;
 }
 nav {
     top: 0;
@@ -162,10 +163,10 @@ legend{
 }
 
   /* ========== FOOTER ========== */
-  .footer-main {
+  footer {
     text-align: center;
     width: 100%;
-    
+    padding: 20px;
     background-color: #222;
     color: #fff;
   }
