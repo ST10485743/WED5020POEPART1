@@ -1,3 +1,10 @@
+@media (max-width: 1024px) {}
+
+@media (max-width: 768px) {}
+
+@media (max-width: 640px) {}
+
+@media (max-width: 300px) {}
 body {
     font-family: Arial, Helvetica, sans-serif; 
     background-color: darkgrey; 
@@ -155,10 +162,10 @@ legend{
 }
 
   /* ========== FOOTER ========== */
-  footer {
+  .footer-main {
     text-align: center;
-    padding: 1rem;
+    width: 100%;
+    
     background-color: #222;
     color: #fff;
-    border: 1200px;
   }
