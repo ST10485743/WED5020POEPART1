@@ -48,3 +48,14 @@ In Part 1, two proposals were supposed to be written, if they are appproved then
 2. Added a logo in front of the naviagtion bar on each webpage.
 3. Added a message box on the enquires form and added a reset button next to the submit button in case the user makes a mistake.
 4. Added a table to show the names of the founders pf the business as well as their pictures.
+5. Added a css stylesheet and a css reset.
+6. link each page with the stylesheet.
+7. used media queries for responsive user inteface.
+
+**Improvements**
+1. Moved other semantics tags such as header and footer into the inside of the body tag for easy styling.
+2. Used a flex-boxes to place content of each webpage at the center and also to improve flexibilty of the website.
+3. Used media query screen to create a responsive website for laptops, tablets and phones.
+
+**Refinements**
+1. All webpage links are showed on the navigation bars.
